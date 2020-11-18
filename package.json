@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/SergeyYakushev/goit-js-hw-11-color-switch/issues"
   },
-  "homepage": "https://github.com/SergeyYakushev/goit-js-hw-11-color-switch",
+  "homepage": "https://SergeyYakushev.github.io/goit-js-hw-11-color-switch",
   "devDependencies": {
     "parcel-bundler": "^1.12.4",
     "parcel-plugin-handlebars-precompile": "^1.0.2"
